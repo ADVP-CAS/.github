@@ -1,5 +1,4 @@
-# Automated Citizenship Assessment System for Masathai
-
+# Automated Citizenship Assessment System
 ## Overview
 
 This GitHub repository contains the Automated Citizenship Assessment System for Masathai. It's a Java-based application designed to streamline the citizenship test process for the unified nation of Masathai, comprising Malaysia, Singapore, and Thailand.
