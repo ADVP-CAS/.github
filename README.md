@@ -41,4 +41,4 @@ To run this application, you need to have the following installed on your system
 * Your information will be securely stored for authentication.
 
 ## Contributors
-*To Be Added*
+* [Peshal Sedhai](https://github.com/curtainteddy)
